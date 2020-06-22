@@ -1,0 +1,18 @@
+R 1000 600
+NO textures/dg64.xpm
+SO textures/cub3d_rn.xpm
+WE textures/gta.xpm
+EA textures/al.xpm
+S textures/tank.xpm
+F iuzzz 51,        xfwer0,51
+C        25,0,       a51
+1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 0 1 0 0 0 0 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 2 0 0 0 0 2 0 S 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 0 0 0 2 0 0 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
